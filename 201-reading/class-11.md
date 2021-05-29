@@ -4,7 +4,7 @@
 
 ## Reading Notes
 
-* Chapter 16: "Images" (pp.406-427)*
+## Chapter 16: "Images" (pp.406-427)
 
 * Image size can be controlled using width and height property in CSS
 
@@ -22,8 +22,9 @@
 
 * Repeating a background image can be reffered to as wallpaper.
 
-* Chapter 19: "Practical Information" (pp.476-492) *
--Search engine Optimization is the practise of trying to help your site appear nearer the top of search engine results when peopl look for topics that your website covers.
+## Chapter 19: "Practical Information" (pp.476-492)
+
+* Search engine Optimization is the practise of trying to help your site appear nearer the top of search engine results when peopl look for topics that your website covers.
 
 * SEO is split into on-page techniques and off-page techniques
 
