@@ -1,7 +1,7 @@
 # **Code 201 Reading Notes**
 ## *This is a place where my notes for 201n22 live* 
 ### Table of Content
-* [Reading 1] (https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-01.md).
+* [Reading 1 (https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-01.md).
 * Reading 2
 * Reading 3
 * Reading 4
