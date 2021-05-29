@@ -1,7 +1,7 @@
 # **Code 201 Reading Notes**
 ## *This is a place where my notes for 201n22 live* 
 ### Table of Content
-[* Reading 1](reading-notes/class-01.md)
+* [Reading 1](class-01.md)
 * Reading 2
 * Reading 3
 * Reading 4
