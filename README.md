@@ -2,20 +2,20 @@
 ## *This is a place where my notes for 201n22 live* 
 ### Table of Content
 * [Reading 1](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-01.md)
-* Reading 2
-* Reading 3
-* Reading 4
-* Reading 5
-* Reading 6
-* Reading 7
-* Reading 8
-* Reading 9
-* Reading 10
-* Reading 11
-* Reading 12
-* Reading 13
-* Reading 14
-* Reading 15
+* [Reading 2](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-02.md)
+* [Reading 3](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-03.md)
+* [Reading 4](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-04.md)
+* [Reading 5](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-05.md)
+* [Reading 6](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-06.md)
+* [Reading 7](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-07.md)
+* [Reading 8](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-08.md)
+* [Reading 9](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-09.md)
+* [Reading 10](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-10.md)
+* [Reading 11](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-11.md)
+* [Reading 12](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-12.md)
+* [Reading 13](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-13.md)
+* [Reading 14](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-14.md)
+* [Reading 15](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-15.md)
 
 ## About Me
 Hello ! my name is David Waiganjo, a veteran, Geospatial scientist and currently in school at code fellows to become a software developer.:thumbsup:
