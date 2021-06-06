@@ -6,11 +6,11 @@
 
 ### Links
 
-* HTML provides us with three different types of list: Ordered List , Unordered List , Definition List.
+* Links are defining features of the web because they allow you to move from one page to another, enabling the very idea of browsing or surfing
 
-* Ordered list is created with the ol element while unordered list is created with ul element.
+* Links are created using the a element.
 
-* The defination list is created with the dl element and ussualy consist of a series of terms and their definations
+* On a larger website, it is a good idea to organize your code by placing the pages from each different section of the site into a new folder
 
 ### Layout
 
