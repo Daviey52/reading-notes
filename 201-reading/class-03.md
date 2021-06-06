@@ -47,4 +47,3 @@
 * The common types of loops are: FOR , WHILEand DO While.
 
 * Three points to consider when working with loops are : Keyword , Break , Continue.
-
