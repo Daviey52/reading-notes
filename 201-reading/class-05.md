@@ -54,4 +54,3 @@
 * setting font size in pixels is the best way to ensure that the type appears at the size intended.
 
 * You can specify different values for the first letter or first line of text inside an element using: first-letter , first-line. These are know as pseudo-elements.
-

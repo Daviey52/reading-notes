@@ -49,7 +49,7 @@
 
 * When you have an element node , you can select another element in relation to it using the five properties. This is known as traversing the DOM.
 
-* DOM manupulation offer another technique to add new content to a page rather than innerHTML. It involves 
+* DOM manupulation offer another technique to add new content to a page rather than innerHTML. It involves
 
 1. Create the element
 2. Give it content
