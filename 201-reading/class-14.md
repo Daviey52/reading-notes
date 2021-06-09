@@ -1,4 +1,4 @@
-# class Fourteen A
+# class Fourteen B
 
 [Home](https://daviey52.github.io/reading-notes/)
 
