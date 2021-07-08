@@ -1,5 +1,5 @@
-# **Code 201 Reading Notes**
-## *This is a place where my notes for 201n22 live* 
+# **Reading Notes**
+## *Code 201 - Foundation of Software Development* 
 ### Table of Content
 * [Reading 1](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-01.md)
 * [Reading 2](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-02.md)
@@ -16,6 +16,10 @@
 * [Reading 13](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-13.md)
 * [Reading 14](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-14.md)
 * [Reading 15](https://github.com/Daviey52/reading-notes/blob/main/201-reading/class-15.md)
+
+## *Code 301 - Intermediate Software Development* 
+### Table of Content
+
 
 ## About Me
 Hello ! my name is David Waiganjo, a veteran, Geospatial scientist and currently in school at code fellows to become a software developer.:thumbsup:
