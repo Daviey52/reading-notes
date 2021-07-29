@@ -19,6 +19,7 @@
 
 ## *Code 301 - Intermediate Software Development* 
 ### Table of Content
+* [Reading 1](https://github.com/Daviey52/reading-notes/blob/main/301-reading/class-01.md)
 
 
 ## About Me
