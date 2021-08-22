@@ -18,13 +18,17 @@ Data in the form of tables
 
 3.Give a real-world example.
 Healthcare provider data
-4. What kind of data is a good fit a NoSQL database?
+
+4.What kind of data is a good fit a NoSQL database?
 Data in the form of key-value pair, documents, graph database or wide-column store
-5. Give a real-world example.
+
+5.Give a real-world example.
 User profile data
-6. Which type of database is best for hierarchical data storage?
+
+6.Which type of database is best for hierarchical data storage?
 NoSQL
-7. Which type of database is best for scalability?
+
+7.Which type of database is best for scalability?
 SQL databases are vertically scalable whereas NoSQL database are horizontally scalable
 
 Video
