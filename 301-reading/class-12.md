@@ -4,15 +4,19 @@
 
 1. Fill in the chart below with five differences between SQL and NoSQL databases:
 SQL NoSQL
- SQL database are table based - NoSQL database are document based, key-value pair, graphs database ow wide-column store
- SQL databases have predefined schema - NoSQL has dynamic schema for unstructured data
- SQL databases are vertically scalable - NoSQL are horizontally scalable
- SQL database use SQL for defining and manipulating data - NoSQL are focused on collection of documents.
 
-2. What kind of data is a good fit for an SQL database?
+ SQL database are table based - NoSQL database are document based, key-value pair, graphs database ow wide-column store
+
+ SQL databases have predefined schema - NoSQL has dynamic schema for unstructured data
+
+ SQL databases are vertically scalable - NoSQL are horizontally scalable
+
+ SQL database use SQL for defining and manipulating data - NoSQL are focused on collection of documents
+
+2.What kind of data is a good fit for an SQL database?
 Data in the form of tables
 
-3. Give a real-world example.
+3.Give a real-world example.
 Healthcare provider data
 4. What kind of data is a good fit a NoSQL database?
 Data in the form of key-value pair, documents, graph database or wide-column store
