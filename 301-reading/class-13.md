@@ -3,11 +3,18 @@
 [Home](https://daviey52.github.io/reading-notes/)
 
 1. In your own words, describe what each group of status code represents:
+
 • 100’s = They are informational status code – they tell a client that the header part of the request has been received by the server
+
 • 200’s = These are the success codes. They tell the client that the request was accepted
+
 • 300’s =These are redirection code. They tell the client that the resource they are requesting is not available
+
 • 400’s = These are client error code. They are all about invalid requests a client sent to a server
-• 500’s =
+
+• 500’s = These are the server error codes. They are all about invalid requests a client sent to a server
+
+Countinued
 2. What is a status code 202?
  This code tells the client that the request was valid, bit its processing will finish sometime in the future
 3. What is a status code 308?
