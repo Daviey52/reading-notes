@@ -14,16 +14,20 @@
 
 • 500’s = These are the server error codes. They are all about invalid requests a client sent to a server
 
-Countinued
+.
 2. What is a status code 202?
  This code tells the client that the request was valid, bit its processing will finish sometime in the future
-3. What is a status code 308?
+
+3.What is a status code 308?
  This code tells the client to use another URL to access the resource and not the current URL anymore
-4. What code would you use if an update didn’t return data to a client?
+
+4.What code would you use if an update didn’t return data to a client?
 204
-5. What code would you use if a resource used to exist but no longer does?
+
+5.What code would you use if a resource used to exist but no longer does?
 410
-6. What is the ‘Forbidden’ status code?
+
+6.What is the ‘Forbidden’ status code?
 403
 
 Video
