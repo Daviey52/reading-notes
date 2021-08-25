@@ -12,8 +12,11 @@ This enabled them to be ahead of female when it came to familiarity with compute
 Diversity in Tech
 
 1. What three take-a-ways do you have looking at this data?
+
 • A lot of companies don’t seem to have a diverse team, though some like Amazon seem to be trying
+
 • There are few women working in some of the top tech companies
+
 • Minority Ethnic groups have few people working in some of the top tech companies
 
 Why diversity matters to your tech company
